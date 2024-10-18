@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning Rust and Javascript 
 - 💞️ I’m looking to collaborate on Rust projects
 - 📫 How to reach me 
-[instagram]https://www.instagram.com/darn._.s/
-[linkedin]https://www.linkedin.com/in/siew-jun-zhen-a6b550298/
+[instagram](https://www.instagram.com/darn._.s/)
+[linkedin](https://www.linkedin.com/in/siew-jun-zhen-a6b550298/)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am really good at FPS games :)
-- 
-(![DarrenSJZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenSJZ&show_icons=true&theme=radical))
+![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenSJZ&show_icons=true&theme=dark)
