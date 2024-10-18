@@ -1,10 +1,11 @@
 ## 👋 Hi, I’m Siew Jun Zhen | [@DarrenSJZ](https://github.com/DarrenSJZ) | Lvl. 21.
+## 📶You can reach me on: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/laughdiemeh) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siew-jun-zhen-a6b550298/)
 - 👨🏻‍💻I'm currently in my final-year of software engineering student at [Sunway University](https://sunwayuniversity.edu.my)
 - ❤️‍🔥I love games, doings things on computers, and learning new technologies!
 - 📚I have experience in: Java, Scala, Kotlin, Bash/ZSH, JavaScript, Python, PHP and Rust, with more to come.
 - 💭I dream of making useful applications and contributing to many fantastic projects with others!
 - 🏢I currently reside in Puchong Jaya, Selangor, Malaysia.
-- 📶You can reach me on [Instagram](https://www.instagram.com/darn._.s/) | [LinkedIn](https://www.linkedin.com/in/siew-jun-zhen-a6b550298/)
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
