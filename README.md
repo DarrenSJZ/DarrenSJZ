@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Siew Jun Zhen | @DarrenSJZ | Lvl. 21.
+## 👋 Hi, I’m Siew Jun Zhen | [@DarrenSJZ](https://github.com/DarrenSJZ) | Lvl. 21.
 - 👨🏻‍💻I'm currently in my final-year of software engineering student at [Sunway University](https://sunwayuniversity.edu.my)
 - ❤️‍🔥I love games, doings things on computers, and learning new technologies!
 - 📚I have experience in: Java, Scala, Kotlin, Bash/ZSH, JavaScript, Python, PHP and Rust, with more to come.
@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DarrenSJZ&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
