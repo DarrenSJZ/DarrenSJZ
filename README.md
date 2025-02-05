@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Siew Jun Zhen | [@DarrenSJZ](https://github.com/DarrenSJZ) | Lvl. 21.
-## 📶You can reach me on: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/laughdiemeh) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siew-jun-zhen-a6b550298/)
+## 📶 You can reach me on: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/laughdiemeh) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siew-jun-zhen-a6b550298/)
 - 🎓I'm currently in my final-year of software engineering student at [Sunway University](https://sunwayuniversity.edu.my)
 - 🫶I love games, doings things on computers, and learning new technologies!
 - 📚I have experience in: Java, Scala, Kotlin, Bash/ZSH, Git, JavaScript, Python, PHP and Rust, with more to come.
