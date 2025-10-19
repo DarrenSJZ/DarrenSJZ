@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Siew Jun Zhen | [@DarrenSJZ](https://github.com/DarrenSJZ) | Lvl. 22  
+## 👋 Hi, I’m Darren | [@DarrenSJZ](https://github.com/DarrenSJZ) | Lvl. 22  
 📶 You can reach me on:  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/laughdiemeh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siew-jun-zhen-a6b550298/)
@@ -61,52 +61,30 @@ Arch + Neovim user btw 😎
 
 ---
 
-# 📊 GitHub Overview
+## 📊 Overview
 
 <div align="center">
 
-<!-- Row 1 -->
-<div style="display:flex; justify-content:center; gap:12px; flex-wrap:nowrap;">
-  <!-- Stats -->
-  <div style="width:420px;height:200px;overflow:hidden;border-radius:10px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=DarrenSJZ&hide_border=true&bg_color=1F1F28&title_color=957FB8&text_color=DCD7BA&icon_color=E6C384&border_color=1F1F28&show_icons=true"
-      alt="GitHub Stats"
-      style="width:100%;height:100%;object-fit:cover;"
-    />
-  </div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DarrenSJZ&hide_border=true&background=1F1F28&ring=957FB8&fire=E6C384&currStreakLabel=E6C384&sideNums=DCD7BA&currStreakNum=E6C384&sideLabels=957FB8&dates=727169"
+    alt="GitHub Streak"
+    width="69%"
+    style="border-radius:10px;"
+  />
+</p>
 
-  <!-- Streak -->
-  <div style="width:420px;height:200px;overflow:hidden;border-radius:10px;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=DarrenSJZ&hide_border=true&background=1F1F28&ring=957FB8&fire=E6C384&currStreakLabel=E6C384&sideNums=DCD7BA&currStreakNum=E6C384&sideLabels=957FB8&dates=727169"
-      alt="GitHub Streak"
-      style="width:100%;height:100%;object-fit:cover;"
-    />
-  </div>
-</div>
-
-<!-- Row 2 -->
-<div style="display:flex; justify-content:center; gap:12px; margin-top:12px; flex-wrap:nowrap;">
-  <!-- Top Langs -->
-  <div style="width:420px;height:200px;overflow:hidden;border-radius:10px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenSJZ&layout=compact&card_width=420&hide_border=true&bg_color=1F1F28&title_color=957FB8&text_color=DCD7BA&icon_color=E6C384"
-      alt="Top Languages"
-      style="width:100%;height:100%;object-fit:cover;"
-    />
-  </div>
-
-  <!-- Contributor Stats -->
-  <div style="width:420px;height:200px;overflow:hidden;border-radius:10px;">
-    <img
-      src="https://github-contributor-stats.vercel.app/api?username=DarrenSJZ&limit=5&combine_all_yearly_contributions=true&hide_border=true&bg_color=1F1F28&title_color=957FB8&text_color=DCD7BA"
-      alt="Top Contributed Repos"
-      style="width:100%;height:100%;object-fit:cover;"
-    />
-  </div>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenSJZ&layout=compact&hide_border=true&bg_color=1F1F28&title_color=957FB8&text_color=DCD7BA&icon_color=E6C384"
+    alt="Top Languages"
+    width="69%"
+    style="border-radius:10px;"
+  />
+</p>
 
 ---
+
 [![Profile views](https://komarev.com/ghpvc/?username=DarrenSJZ&label=Visits&color=957FB8&style=flat-square)](https://github.com/DarrenSJZ)
 </div>
+
