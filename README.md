@@ -9,6 +9,34 @@
 🏡 Based in Selangor, Malaysia.  
 
 ---
+
+## 📊 Stats Overview
+
+<table align="center" width="100%" cellspacing="12" cellpadding="0" style="border:none; border-collapse:collapse; margin:auto;">
+  <tr>
+    <!-- GitHub Streak -->
+    <td style="border:none; padding:0; width:70%; vertical-align:middle;">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DarrenSJZ&hide_border=true&background=1F1F28&ring=957FB8&fire=E6C384&currStreakLabel=E6C384&sideNums=DCD7BA&currStreakNum=E6C384&sideLabels=957FB8&dates=727169"
+        alt="GitHub Streak"
+        width="100%"
+        height="220"
+        style="display:block; border-radius:10px; object-fit:cover;"
+      />
+    </td>
+    <!-- Top Languages -->
+    <td style="border:none; padding:0; width:30%; vertical-align:middle;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenSJZ&layout=compact&hide_border=true&bg_color=1F1F28&title_color=957FB8&text_color=DCD7BA&icon_color=E6C384"
+        alt="Top Languages"
+        width="100%"
+        height="220"
+        style="display:block; border-radius:10px; object-fit:cover;"
+      />
+    </td>
+  </tr>
+</table>
+
 ## 💻 Core Stack
 Modern technologies for building, testing, and deploying full-stack AI applications
 
@@ -26,7 +54,7 @@ Modern technologies for building, testing, and deploying full-stack AI applicati
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🧩 Hands-on
+## 🧩 Hands-on XP
 Technologies I've worked with across projects, hackathons, and academic builds
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -47,9 +75,9 @@ Technologies I've worked with across projects, hackathons, and academic builds
 ## 🌱 Exploring
 Agentic AI, orchestration, and emerging distributed systems
 
-![Model Context Protocol](https://img.shields.io/badge/model_context_protocol-%23000000.svg?style=for-the-badge&logo=protocols.io&logoColor=white)
 ![Google AI SDK](https://img.shields.io/badge/google_ai_sdk-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/model_context_protocol-%23000000.svg?style=for-the-badge&logo=protocols.io&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/openai-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG_systems-%237AA89F.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -60,31 +88,4 @@ Arch + Neovim user btw 😎
 ![Neovim](https://img.shields.io/badge/neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
-
-## 📊 Overview
-
-<div align="center">
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DarrenSJZ&hide_border=true&background=1F1F28&ring=957FB8&fire=E6C384&currStreakLabel=E6C384&sideNums=DCD7BA&currStreakNum=E6C384&sideLabels=957FB8&dates=727169"
-    alt="GitHub Streak"
-    width="69%"
-    style="border-radius:10px;"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenSJZ&layout=compact&hide_border=true&bg_color=1F1F28&title_color=957FB8&text_color=DCD7BA&icon_color=E6C384"
-    alt="Top Languages"
-    width="69%"
-    style="border-radius:10px;"
-  />
-</p>
-
----
-
-[![Profile views](https://komarev.com/ghpvc/?username=DarrenSJZ&label=Visits&color=957FB8&style=flat-square)](https://github.com/DarrenSJZ)
-</div>
 
