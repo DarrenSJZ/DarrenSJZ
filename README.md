@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Darren | [@DarrenSJZ](https://github.com/DarrenSJZ) | Lvl. 22  
+## 👋 Hi, I’m Darren | [@DarrenSJZ](https://github.com/DarrenSJZ) | Lvl. 23
 📶 You can reach me on:  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/laughdiemeh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siew-jun-zhen-a6b550298/)
