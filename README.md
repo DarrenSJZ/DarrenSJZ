@@ -23,17 +23,6 @@
         height="220"
         style="display:block; border-radius:10px; object-fit:cover;"
       />
-    </td>
-    <!-- Top Languages -->
-    <td style="border:none; padding:0; width:30%; vertical-align:middle;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenSJZ&layout=compact&hide_border=true&bg_color=1F1F28&title_color=957FB8&text_color=DCD7BA&icon_color=E6C384"
-        alt="Top Languages"
-        width="100%"
-        height="220"
-        style="display:block; border-radius:10px; object-fit:cover;"
-      />
-    </td>
   </tr>
 </table>
 
